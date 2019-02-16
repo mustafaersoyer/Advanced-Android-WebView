@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    >
+    <item android1:id="@android:id/background">
+        <shape android1:shape="line">
+            <stroke android1:width="2dp" android1:color="#bebebe"/>
+        </shape>
+    </item>
+    <item android1:id="@android:id/progress">
+        <clip android1:clipOrientation="horizontal" android1:gravity="left">
+            <shape android1:shape="line">
+                <stroke android1:width="2dp" android1:color="#248e49"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

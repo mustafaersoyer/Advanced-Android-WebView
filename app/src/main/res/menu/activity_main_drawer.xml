@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:checkableBehavior="single"
+        android:title="Category">
+        <menu>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="HomePage" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_perm_contact_calendar_black_24dp"
+            android:title="Contact" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+        </menu>
+    </item>
+    <item
+        android:title="Sub Category">
+        <menu>
+
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Item 1"/>
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Item 2"/>
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Item 3"/>
+    </menu>
+</item>
+
+</menu>
