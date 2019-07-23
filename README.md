@@ -1,13 +1,12 @@
 <b>Advanced Android WebView App Documentation</b>
 
 https://drive.google.com/file/d/1a3B0XLs3pVZ86XemvcuYY8CiM_S9weFZ/view?usp=sharing
-<p><img src="https://i.hizliresim.com/16pNWG.jpg" alt="16pNWG.jpg"></p>
+
 
 <b> Features </b>
 
 <ul>
   <li>Developed with Android Studio & Gradle</li>
-  <li>Material design</li>
   <li>Chromium web engine</li>
   <li>Splash Screen (optional)</li>
   <li>Popup Menu</li>
