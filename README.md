@@ -1,6 +1,6 @@
 <b>Advanced Android WebView App Documentation</b>
 
-Documentation: https://drive.google.com/file/d/1a3B0XLs3pVZ86XemvcuYY8CiM_S9weFZ/view?usp=sharing
+Documentation: https://github.com/04anubhavv/Advanced-Android-WebView/raw/master/Tutorial.pdf
 
 ![alt text](https://github.com/mustafaersoyer/Advanced-Android-WebView/blob/master/ENG.jpg?raw=true)
 
